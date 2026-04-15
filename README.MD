@@ -1,4 +1,3 @@
 # new project
 
-This is the first local repo
-
+This is the first local repo.
